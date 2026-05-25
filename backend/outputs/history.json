@@ -1,0 +1,20 @@
+[
+  {
+    "job_id": "911ecbce",
+    "prompt": "iphone next Gen",
+    "mode": "text2img",
+    "image_urls": [
+      "/download/911ecbce_0"
+    ],
+    "created_at": "2026-04-28 23:27:07"
+  },
+  {
+    "job_id": "5f30e861",
+    "prompt": "flower",
+    "mode": "text2img",
+    "image_urls": [
+      "/download/5f30e861_0"
+    ],
+    "created_at": "2026-04-28 23:23:08"
+  }
+]
